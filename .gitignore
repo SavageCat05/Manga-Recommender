@@ -1,1 +1,30 @@
-venv/\n__pycache__/\n*.pyc\n.DS_Store
+# Virtual environment  
+venv/  
+
+# Byte-compiled / optimized / DLL files  
+__pycache__/  
+*.py[cod]  
+*.so  
+*.dll  
+
+# Jupyter Notebook checkpoints  
+.ipynb_checkpoints/  
+
+# Logs and local environment settings  
+*.log  
+.env  
+
+# IDE & Editor files  
+.vscode/  
+.idea/  
+*.iml  
+
+# Data files (optional, adjust as needed)  
+*.csv  
+*.h5  
+*.pkl  
+*.db  
+
+# OS-specific files  
+.DS_Store  
+Thumbs.db  
