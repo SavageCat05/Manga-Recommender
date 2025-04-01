@@ -1,0 +1,13 @@
+numpy  
+pandas  
+scikit-learn  
+beautifulsoup4  
+requests  
+nltk  
+spacy  
+scipy  
+surprise  
+tensorflow  
+matplotlib  
+seaborn  
+streamlit  
